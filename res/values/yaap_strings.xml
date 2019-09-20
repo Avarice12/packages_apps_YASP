@@ -290,4 +290,7 @@
     <!-- Three finger ss -->
     <string name="three_finger_screenshot_title">Swipe to screenshot</string>
     <string name="three_finger_screenshot_summary">Swipe down with three fingers to take a screenshot</string>
+
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Invert layout</string>
 </resources>

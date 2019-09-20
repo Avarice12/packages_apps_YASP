@@ -44,4 +44,8 @@
         settings:interval="100"
         settings:units="ms" />
 
+    <com.yasp.settings.preferences.SecureSettingSwitchPreference
+            android:key="sysui_nav_bar_inverse"
+            android:title="@string/navbar_invert_layout_title"
+            android:defaultValue="true" />
 </PreferenceScreen>
