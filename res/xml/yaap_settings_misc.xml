@@ -25,6 +25,13 @@
         android:summary="@string/advanced_reboot_summary"
         android:defaultValue="false" />
 
+    <!-- Three Finger Screenshot  -->
+    <com.yasp.settings.preferences.SystemSettingSwitchPreference
+        android:key="three_finger_gesture"
+        android:title="@string/three_finger_screenshot_title"
+        android:summary="@string/three_finger_screenshot_summary"
+        android:defaultValue="0" />
+
     <!-- Monet -->
     <Preference
         android:key="monet_settings"

@@ -287,4 +287,7 @@
     <string name="statusbar_clock_position_center">Center</string>
     <string name="statusbar_clock_position_right">Right</string>
 
+    <!-- Three finger ss -->
+    <string name="three_finger_screenshot_title">Swipe to screenshot</string>
+    <string name="three_finger_screenshot_summary">Swipe down with three fingers to take a screenshot</string>
 </resources>
